@@ -1,8 +1,11 @@
-# React + Vite
+# Quiz de programação Front end
+## Seja bem-vindo 
+Divirta-se com este quiz sobre programação front-end. Nele, temos perguntas sobre:
+> HTML Básico  <br>
+> CSS Básico  <br>
+> JavaScript Básico
+<hr>
+Oferecemos funcionalidades como excluir uma alternativa incorreta e dicas.
+<hr>
+No final, será gerado um score com a quantidade de acertos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
